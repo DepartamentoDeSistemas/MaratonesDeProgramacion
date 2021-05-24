@@ -1,0 +1,6 @@
+6
+tijeras papel
+lagarto papel
+lagarto roca
+roca lagarto
+tijera tijera
